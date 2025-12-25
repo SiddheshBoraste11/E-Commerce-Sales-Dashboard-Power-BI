@@ -37,5 +37,3 @@ The dataset represents e-commerce transaction data including:
 - Power BI practice and learning
 
 
-
-Feel free to fork, explore, and provide feedback.
